@@ -1,0 +1,10 @@
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\bin\Debug\MessageInheritance.dll.config
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\bin\Debug\MessageInheritance.dll
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\bin\Debug\MessageInheritance.pdb
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\obj\Debug\MessageInheritance.csprojAssemblyReference.cache
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\obj\Debug\MessageInheritance.MessageBaseForm.resources
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\obj\Debug\MessageInheritance.Properties.Resources.resources
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\obj\Debug\MessageInheritance.csproj.GenerateResource.cache
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\obj\Debug\MessageInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\obj\Debug\MessageInheritance.dll
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\MessageInheritance\obj\Debug\MessageInheritance.pdb

@@ -1,0 +1,15 @@
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\bin\Debug\SalaryWPF.exe.config
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\bin\Debug\SalaryWPF.exe
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\bin\Debug\SalaryWPF.pdb
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF.csprojAssemblyReference.cache
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\App.g.cs
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF_MarkupCompile.cache
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF_MarkupCompile.lref
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\MainWindow.baml
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF.g.resources
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF.Properties.Resources.resources
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF.csproj.GenerateResource.cache
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF.exe
+C:\Users\Mehmet Anıl TAYSİ\Desktop\WProject\SalaryWPF\obj\Debug\SalaryWPF.pdb

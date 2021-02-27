@@ -1,0 +1,31 @@
+﻿<Window x:Name="SalaryWindow" x:Class="SalaryWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SalaryWPF"
+        mc:Ignorable="d"
+        Title="Salary Window" Height="542.2" Width="443.2" Loaded="SalaryWindow_Loaded">
+    <Grid Margin="0,0,3.8,5.8">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="92*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="294*"/>
+            <ColumnDefinition Width="27*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Personel Maaş Tablosu" HorizontalAlignment="Left" Margin="5,22,0,0" VerticalAlignment="Top" Height="30" Width="245" FontFamily="Times New Roman" FontSize="18" Foreground="#FF176376" FontWeight="Bold" Grid.Column="2"/>
+        <DataGrid x:Name="gridPersonel" Height="144" Margin="43,57,22.6,306" Grid.ColumnSpan="3" IsReadOnly="True" VerticalAlignment="Center"/>
+        <Label Content="Bütçe:" HorizontalAlignment="Left" Margin="4,207,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Grid.Column="2" RenderTransformOrigin="0.156,0.583" Height="29" Width="51"/>
+        <TextBox x:Name="textBoxButce" HorizontalAlignment="Left" Height="23" Margin="62,210,0,0" TextWrapping="Wrap" Text="Bolum Butce" VerticalAlignment="Top" Width="120" FontFamily="Times New Roman" FontSize="16" Grid.Column="2" IsReadOnly="True"/>
+        <Label x:Name="DurumLabel" Content="DURUM" HorizontalAlignment="Left" Margin="91,253,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="16" Grid.ColumnSpan="3" Height="29" Width="291"/>
+        <Label Content="Personel ID:" HorizontalAlignment="Left" Margin="1,308,0,0" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="2" FontFamily="Times New Roman" Height="29" Width="91" Grid.Column="1"/>
+        <TextBox x:Name="textID" HorizontalAlignment="Left" Height="23" Margin="99,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16" Grid.Column="2" SelectionOpacity="0.6" FontFamily="Times New Roman" PreviewTextInput="textID_PreviewTextInput"/>
+        <Label Content="Yeni Maaş: " HorizontalAlignment="Left" Margin="1,349,0,0" VerticalAlignment="Top" FontSize="16" Grid.ColumnSpan="2" FontFamily="Times New Roman" Height="29" Width="86" Grid.Column="1"/>
+        <TextBox x:Name="textYeniMaas" HorizontalAlignment="Left" Height="23" Margin="99,349,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="16" Grid.Column="2" SelectionOpacity="0.6" FontFamily="Times New Roman" PreviewTextInput="textYeniMaas_PreviewTextInput"/>
+        <Button x:Name="Button" Content="" Grid.Column="2" HorizontalAlignment="Left" Margin="77,390,0,0" VerticalAlignment="Top" Width="67" Height="65" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="maasDegistir.jpg"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

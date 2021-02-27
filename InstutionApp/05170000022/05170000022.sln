@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05170000022", "05170000022.csproj", "{5D976D92-7B99-4DBD-A5FC-DF02EFDC170E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryWPF", "..\SalaryWPF\SalaryWPF.csproj", "{4A83CC75-74A1-43AE-BED2-CD4EE52C9ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D976D92-7B99-4DBD-A5FC-DF02EFDC170E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D976D92-7B99-4DBD-A5FC-DF02EFDC170E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D976D92-7B99-4DBD-A5FC-DF02EFDC170E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D976D92-7B99-4DBD-A5FC-DF02EFDC170E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A83CC75-74A1-43AE-BED2-CD4EE52C9ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A83CC75-74A1-43AE-BED2-CD4EE52C9ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A83CC75-74A1-43AE-BED2-CD4EE52C9ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A83CC75-74A1-43AE-BED2-CD4EE52C9ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C723C2C1-4CC4-4C3F-BC92-E6892E45E6D3}
+	EndGlobalSection
+EndGlobal
